@@ -14,13 +14,13 @@ Pocket Trails is an interactive, Pokémon-inspired browser adventure. Explore a 
 
 Track your journey, manage your Poké Balls, and scan for Pokémon in the wild.
 
-![Pocket Trails Map Preview](./map-preview.png)
+![Pocket Trails Map Preview](./explore.jpg)
 
 ### 🎒 Your Pokémon Collection
 
 View all your caught Pokémon, including their Combat Power (CP) and elemental types.
 
-![Pocket Trails Collection Preview](./collection-preview.png)
+![Pocket Trails Collection Preview](./overview.jpg)
 
 ---
 
